@@ -23,9 +23,9 @@
 
 ## Setup
 ### SetupExample_Hierarchy
-![SetupExample_Hierarchy](.\Assets\Extensions\HyPack\Carousel\Demo\SetupExample_Hierarchy.png)
+![SetupExample_Hierarchy](Assets\Extensions\HyPack\Carousel\Demo\SetupExample_Hierarchy.png)
 ### SetupExample_Project
-![SetupExample_Project](.\Assets\Extensions\HyPack\Carousel\Demo\SetupExample_Project.png)
+![SetupExample_Project](Assets\Extensions\HyPack\Carousel\Demo\SetupExample_Project.png)
 
 1. Create SceneContext(Zenject) in scene
 2. Drag CarouselManager.prefab to scene
